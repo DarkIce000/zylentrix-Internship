@@ -17,7 +17,7 @@ A Django REST framework based API that provides user management functionality wi
   
 ## Video Demo
 
-<video src="https://github.com/user-attachments/assets/8eec7471-525b-46d5-8ee4-138bd29fdc86" > 
+<video src="https://github.com/user-attachments/assets/8eec7471-525b-46d5-8ee4-138bd29fdc86"></video> 
 
 
 ## Setup
