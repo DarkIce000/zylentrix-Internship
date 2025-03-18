@@ -14,13 +14,18 @@ A Django REST framework based API that provides user management functionality wi
 - Python 3.8+
 - Django 5.1.7
 - Django REST framework 3.15.2
+  
+## Video Demo
+
+<video src="https://github.com/user-attachments/assets/8eec7471-525b-46d5-8ee4-138bd29fdc86" > 
+
 
 ## Setup
 
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DarkIce000/zylentrix-Internship.git
    cd zylentrix-internship
    ```
 
